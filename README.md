@@ -6,11 +6,11 @@ These reports were prepared for Audit Contests and Bounties on various platforms
 
 Feel free to check out my Solodit profile for more information and engagements: [here](https://profiles.cyfrin.io/u/cryptoauntie)
 
-Currently, I'm a freelance security researcher available for Web3 security consulting and security reviews. 
+Currently, I'm a security researcher available for Web3 security consulting and security reviews. 
 
 For inquiries, reach out on Discord or email.
 
-[![Discord](https://img.shields.io/badge/Chat%20on%20Discord-Skywood%20Web3%20Security-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k9HafUqd)
+[![Discord](https://img.shields.io/badge/Chat%20on%20Discord-Skywood%20Web3%20Security-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mRGGFdUu)
 
 ---
 

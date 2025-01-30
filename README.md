@@ -8,15 +8,15 @@ Feel free to check out my Solodit profile for more information and engagements:Â
 
 Currently, I'm a security researcher available for Web3 security consulting and security reviews. 
 
-For inquiries, reach out on Discord or email.
+For inquiries, schedule a call below. 
 
-[![Discord](https://img.shields.io/badge/Chat%20on%20Discord-Skywood%20Web3%20Security-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mRGGFdUu)
+[![Calendly](https://img.shields.io/badge/Schedule%20a%20Call-Book%20Now-00A2FF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/cryptoauntie/scs30)  
 
 ---
 
 ## [CodeHawks](https://codehawks.cyfrin.io/)
 
-### 2024-12 || [PasswordStore](https://github.com/dmariet/security-audits/blob/main/audit%20reports/PasswordStore/ps_findingsreport.pdf) 
+### 2024-12 || [PasswordStore](https://github.com/cryptoauntie/security-audits/blob/main/audit%20reports/PasswordStore/ps_findingsreport.pdf) 
 
 | Risk | Flagged | Finding |
 | :---: | :--- | :---: |
